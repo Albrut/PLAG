@@ -1,0 +1,14 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="metanit.crosy.models.Main_page_1_cross.objects" />
+          <option value="metanit.crosy.models.Mainpage1cross.*" />
+          <option value="metanit.metanit.urls.crosy" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
